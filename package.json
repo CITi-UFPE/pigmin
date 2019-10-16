@@ -1,6 +1,6 @@
 {
   "name": "pigmin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add an admin interface to your express app",
   "main": "index.js",
   "scripts": {
