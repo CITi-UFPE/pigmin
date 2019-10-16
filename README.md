@@ -4,8 +4,15 @@
   </a>
   <p>JS Admin interface heavily based on Django Admin.</p>
   <p>
-    [![GitHub issues](https://img.shields.io/github/issues/CITi-UFPE/pigmin)](https://github.com/CITi-UFPE/pigmin/issues)   
-    
+    <a href="https://github.com/CITi-UFPE/pigmin/issues">
+      <img src="https://img.shields.io/github/issues/CITi-UFPE/pigmin">  
+    </a>
+    <a href="https://github.com/CITi-UFPE/pigmin/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/CITi-UFPE/pigmin">
+    </a>
+    <a href="https://github.com/CITi-UFPE/pigmin/blob/master/LICENSE">
+      <img alt="GitHub license" src="https://img.shields.io/github/license/CITi-UFPE/pigmin">
+  </a>
   </p>
 </p>
 
