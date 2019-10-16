@@ -2,8 +2,12 @@
   <a href="http://citi.org.br">
     <img src="https://i.imgur.com/yegeWYg.png" alt="PigMin logo"/>
   </a>
+  <p>JS Admin interface heavily based on Django Admin.</p>
+  <p>
+    [![GitHub issues](https://img.shields.io/github/issues/CITi-UFPE/pigmin)](https://github.com/CITi-UFPE/pigmin/issues)   
+    
+  </p>
 </p>
-JS Admin interface heavily based on Django Admin.
 
 # Installation
 (WIP)
